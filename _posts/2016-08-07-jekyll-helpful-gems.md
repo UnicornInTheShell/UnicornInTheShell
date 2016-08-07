@@ -1,6 +1,6 @@
 ---
 layout: post
-title: jekyll helpful gems
+title: Jekyll helpful gems
 ---
 
 After switching to Jekyll for simplicity, I went back to look for some helpful (not so clutering) libraries (aka rub gems) that can faciliate with posting faster.
@@ -34,3 +34,5 @@ Here is the list:
 		$ bundle exec jekyll unpublish _posts/2014-01-24-my-new-draft.md
 
 		```
+
+Happy Blogging! :+1:
