@@ -6,10 +6,7 @@
   padding: 0;
 }
 
-html, body {
-  height: 100%;
-  widht: 800px;
-   }
+html, body { height: 100%; }
 
 body {
   font-family: Helvetica, Arial, sans-serif;
